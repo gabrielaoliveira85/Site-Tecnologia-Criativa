@@ -3,12 +3,13 @@ body{
 }
 
 .titulo-principal{
-    padding-left: 1000px;
+    margin: 2em 2em 3em;
+    padding-left: 100px;
 
 }
 
 #tecnologiaimagem{
-    width: 10%;
+    width: 30%;
 }
 
 .principal{
@@ -21,7 +22,7 @@ body{
 }
 
 p{
-    text-align: center;
+    text-align: right;
 }
 
 .lista-de-pontos{
@@ -31,6 +32,8 @@ p{
 
 .item{
     font-style: italic;
+    font-size: medium;
+    
 }
 
 ul{
