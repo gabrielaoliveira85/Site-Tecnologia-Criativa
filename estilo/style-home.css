@@ -4,7 +4,7 @@ body{
 
 .titulo-principal{
     margin: 2em 2em 3em;
-    padding-left: 100px;
+    padding-left: 1000px;
 
 }
 
@@ -33,7 +33,7 @@ p{
 .item{
     font-style: italic;
     font-size: medium;
-    
+
 }
 
 ul{
